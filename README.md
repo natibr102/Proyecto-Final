@@ -1,8 +1,14 @@
-<em> # >Creación de Dataset de Alojamientos en Costa Dorada con Web Scraping de Booking.com </em
+**Creación de Dataset de Alojamientos en Costa Dorada con Web Scraping de Booking.com**
 
 ![image](https://user-images.githubusercontent.com/116547782/231174297-270b7213-0405-482e-9f65-6c552ba0c50a.png)
 ![image](https://user-images.githubusercontent.com/116547782/231174397-8d39656f-6933-448a-957f-f2d518a48ed0.png)
 ![image](https://user-images.githubusercontent.com/116547782/231174524-e7937fd5-0943-4e69-ac5b-2f1ae9209962.png)
+
+Archivos del repositorio:
+
++ Trabajo Final- Web Scraping (1).ipynb : Contiene el web scraping con Selenium de la web de Booking.com para una búsqueda en la Costa Dorada, se le puede cambiar los parametros de la búsqueda y se obtendrán datos como Nombre del Alojamient, ubicación, precio, etc. 
++ Trabajo Final- (2) (2).ipynb:Contiene el análisis exploratorio, limepieza del dataset, resúmenes estadísticos, preprocesado y modelos de regresión.
++ Trabajo final- Analisis de sentimientos.ipynb: Contiene el web scraping con beatifulsoup de los comentarios de un alojamiento, la mineria de texto y el analisis de sentimientos.
 
 
 
