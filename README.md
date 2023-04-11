@@ -18,7 +18,7 @@ En resumen, este trabajo final no solo demostró la utilidad del web scraping pa
 Archivos del repositorio:
 
 + Trabajo Final- Web Scraping (1).ipynb : Contiene el web scraping con Selenium de la web de Booking.com para una búsqueda en la Costa Dorada, se le puede cambiar los parametros de la búsqueda y se obtendrán datos como Nombre del Alojamient, ubicación, precio, etc. 
-+ Trabajo Final- (2) (2).ipynb:Contiene el análisis exploratorio, limepieza del dataset, resúmenes estadísticos, preprocesado y modelos de regresión.
++ Trabajo Final- 2.ipynb:Contiene el análisis exploratorio, limepieza del dataset, resúmenes estadísticos, preprocesado y modelos de regresión.
 + Trabajo final- Analisis de sentimientos.ipynb: Contiene el web scraping con beatifulsoup de los comentarios de un alojamiento, la mineria de texto y el analisis de sentimientos.
 
 Estado del Proyecto
