@@ -1,8 +1,8 @@
-# README: Creación de Dataset de Alojamientos en Costa Dorada con Web Scraping de Booking.com
+<em> # >Creación de Dataset de Alojamientos en Costa Dorada con Web Scraping de Booking.com </em
 
-Python Version
-Selenium Version
-BeautifulSoup Version
+![image](https://user-images.githubusercontent.com/116547782/231174297-270b7213-0405-482e-9f65-6c552ba0c50a.png)
+![image](https://user-images.githubusercontent.com/116547782/231174397-8d39656f-6933-448a-957f-f2d518a48ed0.png)
+![image](https://user-images.githubusercontent.com/116547782/231174524-e7937fd5-0943-4e69-ac5b-2f1ae9209962.png)
 
 
 
