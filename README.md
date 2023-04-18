@@ -6,7 +6,7 @@
 
 
 
-El objetivo principal del trabajo final de la especialización de Data Science fue crear un dataset utilizando técnicas de web scraping con la herramienta Selenium para la página web de Booking.com. La búsqueda se centró en alojamientos para dos adultos y dos niños en la Costa Dorada de España durante la primera semana de julio de 2023.
+El objetivo principal del trabajo final de la especialización de Data Science fue crear un dataset utilizando técnicas de web scraping con la herramienta Selenium para la página web de Booking.com. La búsqueda se centró en alojamientos para dos adultos Cancel changesy dos niños en la Costa Dorada de España durante la primera semana de julio de 2023.
 
 El proyecto se desarrolló utilizando Python y las librerías Selenium para recopilar información de diferentes alojamientos disponibles en la página web. Se recopilaron datos como el nombre del alojamiento, la ubicación, las tarifas, las comodidades y las valoraciones de los clientes.
 
@@ -19,6 +19,14 @@ Archivos del repositorio:
 
 + Trabajo Final- Web Scraping (1).ipynb : Contiene el web scraping con Selenium de la web de Booking.com para una búsqueda en la Costa Dorada, se le puede cambiar los parametros de la búsqueda y se obtendrán datos como Nombre del Alojamient, ubicación, precio, etc. 
 + Trabajo Final- 2.ipynb:Contiene el análisis exploratorio, limepieza del dataset, resúmenes estadísticos, preprocesado y modelos de regresión.
+Estructura del repositorio:
+Carga del Dataset
+Análisis exploratorio y estadisticos general.
+Pre-procesamiento
+División del conjunto de datos adjunto en train y test.
+Aplicar algoritmos de regression.
+Conclusiones.
+
 + Trabajo final- Analisis de sentimientos.ipynb: Contiene el web scraping con beatifulsoup de los comentarios de un alojamiento, la mineria de texto y el analisis de sentimientos.
 
 Estado del Proyecto
