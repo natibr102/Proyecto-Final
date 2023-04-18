@@ -28,6 +28,7 @@ Aplicar algoritmos de regression.
 Conclusiones.
 
 + Trabajo final- Analisis de sentimientos.ipynb: Contiene el web scraping con beatifulsoup de los comentarios de un alojamiento, la mineria de texto y el analisis de sentimientos.
++ Paper del trabajo final.
 
 Estado del Proyecto
 El proyecto se encuentra finalizado y el dataset generado está disponible para su uso y análisis. 
